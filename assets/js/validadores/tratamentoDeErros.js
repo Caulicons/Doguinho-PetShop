@@ -9,8 +9,7 @@ export function valida(input) {
     if(validadores[tipoDeInput]) {
         validadores[tipoDeInput](input)
     }
-
-    console.log(input.validity);
+    
     if(input.validity.valid) {
         input.parentElement.classList.remove('input-container--invalido') 
     } else {

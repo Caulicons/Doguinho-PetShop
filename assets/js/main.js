@@ -29,7 +29,6 @@ inputs.forEach((input) => {
     
 })
 
-
 //Deixando cabeçalho responsivo para telas menores.
 /* document.querySelector('.cabecalho')
 .addEventListener('click', () => {
