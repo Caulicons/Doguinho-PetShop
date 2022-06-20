@@ -1,5 +1,7 @@
 # Doguinho PetShop
 
+caso queira da uma olhada rápida, clique [aqui](https://doguinho-pet-shop.vercel.app/).
+
 Meu projeto do curso de "Curso deJavaScript na Web: validação de Formulários e HTML5" da Alura, com o orientado ****Matheus Alberto Marcus****, [segue seu Linkedin](https://www.linkedin.com/in/matheus-alberto-marcus/).
 
 Aprofundando o conhecimento em validação de formulários para a web. Tentei usufruir na medida do possível das tags de input e as suas propriedades como required, type, placeholder, pattern e etc.
