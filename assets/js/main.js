@@ -26,7 +26,6 @@ inputs.forEach((input) => {
                 evento.target.value = mask[tipoDeInput](evento.target.value)
         })
     }
-    
 })
 
 //Deixando cabeçalho responsivo para telas menores.
